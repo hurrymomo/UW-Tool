@@ -1,3 +1,5 @@
-# Make sure that update and run system directory is correct;
+# Make sure that update where Assignment number will be take as an argument and run system directory is correct;
+# Use ~ to represent a home directory 
+# there is exact one space between : and ~
 update: ~/cs350-os161/os161-1.99/kern/compile/
 run: ~/cs350-os161/root/
