@@ -1,5 +1,0 @@
-#!/bin/bash
-tool_cs350_run=`egrep "^run:" ~/tool/cs350/info`
-tool_cs350_run=${tool_cs350_run#run: ~}
-cd ${HOME}${tool_cs350_run}
-sys161 kernel ${1}
