@@ -1,0 +1,3 @@
+#!/bin/bash
+alias run=~/tool/cs350/run
+alias update=~/tool/cs350/update
