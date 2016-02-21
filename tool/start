@@ -1,0 +1,10 @@
+#!/bin/bash
+
+for pack in `ls ~/tool/`
+do
+	if [ $pack != "start" ] ;then
+		source ~/tool/${pack}/Setup
+		chmod u+x ~/tool/${pack}/Open_Permission
+		~/tool/${pack}/Open_Permission
+	fi
+done

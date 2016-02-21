@@ -1,0 +1,5 @@
+#!/bin/bash
+chmod u+x ~/tool/cs350/Setup
+chmod u+x ~/tool/cs350/run
+chmod u+x ~/tool/cs350/update
+

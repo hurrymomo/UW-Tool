@@ -1,0 +1,3 @@
+# Make sure that update and run system directory is correct;
+update: ~/cs350-os161/os161-1.99/kern/compile/
+run: ~/cs350-os161/root/
