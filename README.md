@@ -1,3 +1,5 @@
+Note this script is only working on bash 
+
 1.log in to linux.student.cs.uwaterloo.ca environment
 
 2.Place "tool" file in the home directory
