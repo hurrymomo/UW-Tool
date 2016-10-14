@@ -1,3 +1,9 @@
+This script allows you to run and update the assignments at any directory by a simple command
+1. type "run" to run you OS
+2. type "update X" to update your assignment X
+
+
+
 Note this script is only working on bash 
 
 1.log in to linux.student.cs.uwaterloo.ca environment
