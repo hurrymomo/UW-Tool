@@ -1,4 +1,5 @@
 This script allows you to run and update the assignments at any directory by a simple command
+Note it does not build the assignments, you have to do it on you own.
 
 1. type "run" to run you OS
 2. type "update X" to update your assignment X
