@@ -12,7 +12,8 @@ Note this script is only working on bash
 
 2.Place "tool" file in the home directory
 
-3.open .profile(hidden file) in the home directory
+3.open .bash_profile(hidden file) in the home directory
+  or any other files exectuated every time you login your account
 
 4.add "source tool/start" to the top of the file
 
